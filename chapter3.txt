@@ -1,1 +1,1 @@
-This is chapter 3 of version control.
+This is chapter 3 of version control in new plot.

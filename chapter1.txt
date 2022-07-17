@@ -1,1 +1,1 @@
-hello this is chapter 1 of git and version control.
+hello this is chapter 1 of git and version control in new plot.
